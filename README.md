@@ -87,6 +87,8 @@ As a Makers Academy graduate I have spent a lot of time not only pair programmin
 - Ruby, Rails, Javascript, AngularJS
 - Rspec, Jasmine
 
+## Related Experience
+
 #### Cognizant - Programmer Analyst (Apr 2017 - Jan 2018)
 
 - Three months training with senior developers in, JS, React, Java, and Node.js
